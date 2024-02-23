@@ -61,7 +61,7 @@ The possible parameters are:
 
 **Can I download appimage packages for Libreoffice?**
 
-Yes, you can find a dedicated page on the official website https://www.libreoffice.org/download/appimage/ with the basic packages otherwise you can go download other versions via https://libreoffice.soluzioniopen.com/
+Yes, you can find a dedicated page on the official website https://www.libreoffice.org/download/appimage/ with the basic packages otherwise you can go download other versions via https://appimages.libreitalia.org
 
 **Can I trust this script?**
 
